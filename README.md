@@ -5,27 +5,27 @@ Among the participating teams are the Royal Challengers Bangalore (RCB) and the 
 
 **The Dataset used for this Analysis contains following feature:**
 
-__team__: Indicates the batting team.
+__1. team__: Indicates the batting team.
 
-__over__: Over number in the match.
+__2. over__: Over number in the match.
 
-__batter__: The batsman facing the delivery.
+__3. batter__: The batsman facing the delivery.
 
-__bowler__: The bowler delivering the ball.
+__4. bowler__: The bowler delivering the ball.
 
-__non_striker__: The batsman at the non-striker’s end.
+__5. non_striker__: The batsman at the non-striker’s end.
 
-__runs_batter__: Runs scored by the batter off the delivery.
+__6. runs_batter__: Runs scored by the batter off the delivery.
 
-__runs_extras__: Extra runs (like wides, no balls) were conceded during the delivery.
+__7. runs_extras__: Extra runs (like wides, no balls) were conceded during the delivery.
 
-__runs_total__: Total runs scored from the delivery.
+__8. runs_total__: Total runs scored from the delivery.
 
-__player_out__: Name of the player out on the delivery (if any).
+__9. player_out__: Name of the player out on the delivery (if any).
 
-__wicket_kind__: Type of dismissal (if any).
+__10. wicket_kind__: Type of dismissal (if any).
 
-__fielders__: Names of fielders involved in the dismissal (if any).
+__11. fielders__: Names of fielders involved in the dismissal (if any).
 
 **Dependencies**
 
