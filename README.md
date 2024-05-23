@@ -19,6 +19,9 @@ __fielders__: Names of fielders involved in the dismissal (if any).
 **Dependencies**
 
 Python 3.x
+
 pandas
+
 Seaborn
+
 Matplotlib
